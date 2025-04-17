@@ -25,7 +25,7 @@ except IOError:
 
 
 setup(
-    name="proxmoxer",
+    name="proxmoxer-proxy",
     version=proxmoxer_version,
     description="Python Wrapper for the Proxmox 2.x API (HTTP and SSH)",
     author="Oleg Butovich",
